@@ -1,13 +1,13 @@
 # 🌈 starship-gruvbox-rainbow
 
-<center>
+<div align="center">
     <div>
        <a href="README.md">🇺🇸 English</a> | 🇯🇵 日本語 | <a href="README_CN.md">🇨🇳 中文</a>
     </div>
     <br>
     <b>🎨 Starship 用 Gruvbox Dark テーマ</b>
     <img src="screenshot.png" />
-</center>
+</div>
 
 ## 🚚 インストール
 
