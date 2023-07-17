@@ -2,12 +2,20 @@
 
 <div align="center">
     <div>
-       <a href="README.md">🇺🇸 English</a> | <a href="README_JP.md">🇯🇵 日本語</a> | 🇨🇳 中文
+       🇺🇸 <a href="README.md">English</a> | 🇯🇵 <a href="README_JP.md">日本語</a> | 🇨🇳 中文
    </div>
     <br>
-    <b>🎨 适用于 Starship 的 Gruvbox Dark 主题</b>
+    <b>🎨 适用于 <a href="https://starship.rs/zh-CN/">Starship</a> 的 Gruvbox Dark 主题</b>
     <img src="screenshot.png" />
 </div>
+
+## 🌟 功能
+
+1. Gruvbox Dark 色调
+2. 针对各个操作系统的独特图标
+   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian.
+3. 自定义的环境上下文
+   - C, Rust, Go, Node.js, PHP, Java, Kotlin, Haskell, Python, Docker
 
 ## 🚚 安装
 

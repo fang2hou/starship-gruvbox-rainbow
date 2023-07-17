@@ -2,12 +2,20 @@
 
 <div align="center">
     <div>
-       <a href="README.md">🇺🇸 English</a> | 🇯🇵 日本語 | <a href="README_CN.md">🇨🇳 中文</a>
+       🇺🇸 <a href="README.md">English</a> | 🇯🇵 日本語 | 🇨🇳 <a href="README_CN.md">中文</a>
     </div>
     <br>
-    <b>🎨 Starship 用 Gruvbox Dark テーマ</b>
+    <b>🎨 <a href="https://starship.rs/ja-JP/">Starship</a> 用 Gruvbox Dark テーマ</b>
     <img src="screenshot.png" />
 </div>
+
+## 🌟 機能
+
+1. Gruvbox Dark カラースキーム
+2. 各 OS に対し、独特なアイコンを提供
+   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian.
+3. リッチなコンテストサポート
+   - C, Rust, Go, Node.js, PHP, Java, Kotlin, Haskell, Python, Docker
 
 ## 🚚 インストール
 

@@ -2,16 +2,24 @@
 
 <div align="center">
     <div>
-       🇺🇸 English | <a href="README_JP.md">🇯🇵 日本語</a> | <a href="README_CN.md">🇨🇳 中文</a>
+       🇺🇸 English | 🇯🇵 <a href="README_JP.md">日本語</a> | 🇨🇳 <a href="README_CN.md">中文</a>
     </div>
     <br>
-    <b>🎨 Gruvbox Dark theme for Starship</b>
+    <b>🎨 Gruvbox Dark theme for <a href="https://starship.rs/">Starship</a></b>
     <img src="screenshot.png" />
 </div>
 
+## 🌟 Features
+
+1. Gruvbox Dark color scheme
+2. OS specific icons
+   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian.
+3. Customized context
+   - C, Rust, Go, Node.js, PHP, Java, Kotlin, Haskell, Python, Docker
+
 ## 🚚 Install
 
-1. Backup current Starship profile if it exists.
+1. Backup current Starship profile if it exists. (_Optional_)
 
    ```shell
    [[ -f "$HOME/.config/starship.toml" ]] \
