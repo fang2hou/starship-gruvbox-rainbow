@@ -14,14 +14,14 @@
 1. 如果存在当前的 starship 配置文件，备份一下。
 
    ```shell
-   [[ -f "$HOME/.config/starship.toml" ]]\
+   [[ -f "$HOME/.config/starship.toml" ]] \
    && mv ~/.config/starship.toml ~/.config/starship.bak.toml
    ```
 
 2. 下载主题并设定为当前 starship 配置。
 
    ```shell
-   curl -o ~/.config/starship.toml \
+   mkdir -p ~/.config && curl -o ~/.config/starship.toml \
    https://raw.githubusercontent.com/fang2hou/starship-gruvbox-rainbow/main/starship.toml
    ```
 

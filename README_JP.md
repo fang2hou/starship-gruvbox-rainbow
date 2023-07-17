@@ -14,15 +14,15 @@
 1. 設定がすでに存在する場合、バックアップを作る。
 
    ```shell
-   [[ -f "$HOME/.config/starship.toml" ]]\
+   [[ -f "$HOME/.config/starship.toml" ]] \
    && mv ~/.config/starship.toml ~/.config/starship.bak.toml
    ```
 
 2. テーマをダウンロードして、Starship コンフィグとして設定する。
 
    ```shell
-   curl -o ~/.config/starship.toml \
-   https://raw.githubusercontent.com/fang2hou/starship-gruvbox-rainbow/main/starship.toml
+   [[ -f "$HOME/.config/starship.toml" ]]\
+   && mv ~/.config/starship.toml ~/.config/starship.bak.toml
    ```
 
 3. 各種カスタマイズ。（_オプション_）

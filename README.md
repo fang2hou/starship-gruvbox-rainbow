@@ -14,14 +14,14 @@
 1. Backup current Starship profile if it exists.
 
    ```shell
-   [[ -f "$HOME/.config/starship.toml" ]]\
+   [[ -f "$HOME/.config/starship.toml" ]] \
    && mv ~/.config/starship.toml ~/.config/starship.bak.toml
    ```
 
 2. Download the theme and set it as your Starship config.
 
    ```shell
-   curl -o ~/.config/starship.toml \
+   mkdir -p ~/.config && curl -o ~/.config/starship.toml \
    https://raw.githubusercontent.com/fang2hou/starship-gruvbox-rainbow/main/starship.toml
    ```
 
