@@ -13,7 +13,7 @@
 
 1. Gruvbox Dark 色调
 2. 针对各个操作系统的独特图标
-   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian.
+   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian, RedHat.
 3. 自定义的环境上下文
    - C, Rust, Go, Node.js, PHP, Java, Kotlin, Haskell, Python, Docker
 

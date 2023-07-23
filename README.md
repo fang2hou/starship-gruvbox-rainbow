@@ -13,7 +13,7 @@
 
 1. Gruvbox Dark color scheme
 2. OS specific icons
-   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian.
+   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian, RedHat.
 3. Customized context
    - C, Rust, Go, Node.js, PHP, Java, Kotlin, Haskell, Python, Docker
 

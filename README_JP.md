@@ -13,7 +13,7 @@
 
 1. Gruvbox Dark カラースキーム
 2. 各 OS に対し、独特なアイコンを提供
-   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian.
+   - macOS, Windows, Arch, Ubuntu, SUSE, Raspbian, Mint, Manjaro, Gentoo, Alpine, Amazon, Andriod, Artix, CentOS, Debian, RedHat.
 3. リッチなコンテストサポート
    - C, Rust, Go, Node.js, PHP, Java, Kotlin, Haskell, Python, Docker
 
